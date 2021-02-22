@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Swantje Tönnis"
-excerpt: "Swantje Tönnis"
+excerpt: 
 author_profile: true
 redirect_from: 
   - /about/
