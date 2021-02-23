@@ -11,9 +11,6 @@ redirect_from:
 
 Education
 ====
-
-Work experience
-======
 * 
   * 
 
