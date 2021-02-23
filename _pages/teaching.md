@@ -13,7 +13,8 @@ redirect_from:
 
 
 ### Pragmatics
-
+* Advanced Linguistics: Expectations in Discourse, *Stuttgart University*, 2021  
+* Introduction to Pragmatics, *University of Graz*, 2018-2020
 
 ### Methods
 
