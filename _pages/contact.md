@@ -12,7 +12,7 @@ redirect_from:
 
 
 
-[swantje.toennis@ling.uni-stuttgart.de](swantje.toennis@ling.uni-stuttgart.de)
+swantje.toennis@ling.uni-stuttgart.de
 
 University of Stuttgart  
 Department of English Linguistics  
