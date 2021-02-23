@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-## Semantics
+### Semantics
 
 
-## Pragmatics
+### Pragmatics
 
 
-## Methods
+### Methods
 
