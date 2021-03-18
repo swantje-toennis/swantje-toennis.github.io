@@ -25,8 +25,7 @@ redirect_from:
 	* Talk: *That's not quite it: An experimental investigation of (non-)exhaustivity in it-clefts*   
 Sinn und Bedeutung, Edinburgh, Scotland (joint work with Joseph P. De Veaugh-Geiss,
 Edgar Onea and Malte Zimmermann)
-	* Poster: *Methodological Considerations on testing argument asymmetry in German cleft sen-
-tences*  
+	* Poster: *Methodological Considerations on testing argument asymmetry in German cleft sentences*  
 Grammar and Corpora 2016, Mannheim, Germany. (joint work with Lea M. Fricke and Alexander Schreiber)
 	* Poster: *"Es ist dies" - A Special Use of German Prefield-es*  
 	Grammar and Corpora 2016, Mannheim, Germany (joint work with Lea M. Fricke)
