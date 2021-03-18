@@ -16,6 +16,6 @@ redirect_from:
 * 2015-2017: Research Assistent, DFG-funded XPrag project "Exhaustivity in Cleft Sentences", Göttingen University
 
 ### Education
-* 2021: PhD in Linguistics (to be defended soon), Graz University.
+* 2021: PhD in Linguistics (to be defended soon), Graz University
 * 2015: MA in Linguistics, Göttingen University
 
