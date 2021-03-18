@@ -19,4 +19,4 @@ Department of English Linguistics
 Keplerstr. 17 
 70174 Stuttgart 
 Germany 
-[My Stuttgart University Homepage](https://www.ling.uni-stuttgart.de/institut/team/Toennis/)
+[My department webpage](https://www.ling.uni-stuttgart.de/institut/team/Toennis/)
