@@ -45,6 +45,5 @@ Grammar and Corpora 2016, Mannheim, Germany. (joint work with Lea M. Fricke and 
 	* Poster: *Clefts as Cues for Prosody in Written Texts*  
 	Summer School "Intonation and Word Order", Graz
 * 2016
-	* Talk: *Experimental Investigations on Exhaustivity in German it-clefts and Hungarian Pre-
-verbal Focus*  
+	* Talk: *Experimental Investigations on Exhaustivity in German it-clefts and Hungarian Preverbal Focus*  
 Hungarian Academy of Sciences, Budapest, Hungary. (joint work with Joseph P. De Veaugh-Geiss, Edgar Onea and Malte Zimmermann)
