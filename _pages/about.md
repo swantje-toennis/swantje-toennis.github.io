@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website 
+I am a postdoctoral researcher at the Department of English Linguistics at the University of Stuttgart.
