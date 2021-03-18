@@ -15,5 +15,8 @@ redirect_from:
 swantje.toennis@ling.uni-stuttgart.de
 
 University of Stuttgart  
-Department of English Linguistics  
-[https://www.ling.uni-stuttgart.de/institut/team/Toennis/](https://www.ling.uni-stuttgart.de/institut/team/Toennis/)
+Department of English Linguistics
+Keplerstr. 17
+70174 Stuttgart
+Germany
+[My Stuttgart University Homepage](https://www.ling.uni-stuttgart.de/institut/team/Toennis/)
