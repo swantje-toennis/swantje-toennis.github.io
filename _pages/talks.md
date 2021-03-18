@@ -12,7 +12,7 @@ redirect_from:
 
 ### Peer-reviewed
 * 2019
-       * Talk: It is not the obvious question that a cleft addresses. TbiLLC 2019, Batumi, Georgia.
+	* Talk: It is not the obvious question that a cleft addresses. TbiLLC 2019, Batumi, Georgia.
 * 2018
 ** Poster: German es-clefts raising prominence - An empirical study comparing written and
 spoken data. 2nd International Conference Prominence in Language, Köln.
