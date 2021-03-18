@@ -12,17 +12,17 @@ redirect_from:
 
 ### Peer-reviewed
 * 2019
-	* Talk: It is not the obvious question that a cleft addresses. TbiLLC 2019, Batumi, Georgia.
+	* Talk: *It is not the obvious question that a cleft addresses.* TbiLLC 2019, Batumi, Georgia.
 * 2018
-	* Poster: German es-clefts raising prominence - An empirical study comparing written and
-spoken data. 2nd International Conference Prominence in Language, Köln.
-	* Talk: Investigating the Distribution of Clefts in Written and Spoken German: The Role of
-Prosody. Annual meeting of the DGfS, Stuttgart.
+	* Poster: *German es-clefts raising prominence - An empirical study comparing written and spoken data.*  
+	2nd International Conference Prominence in Language, Köln.
+	* Talk: *Investigating the Distribution of Clefts in Written and Spoken German: The Role of Prosody.*  
+	Annual meeting of the DGfS, Stuttgart.
 * 2017
-	* Talk: Experimental Investigations on Exhaustivity in Hungarian Preverbal Focus. 18th Szklarska
-Poreba Workshop, Poland. (joint work with Joseph P. De Veaugh-Geiss)
+	* Talk: *Experimental Investigations on Exhaustivity in Hungarian Preverbal Focus.*  
+	18th Szklarska Poreba Workshop, Poland. (joint work with Joseph P. De Veaugh-Geiss)
 * 2016
-	* Talk: That's not quite it: An experimental investigation of (non-)exhaustivity in it-clefts.
+	* Talk: *That's not quite it: An experimental investigation of (non-)exhaustivity in it-clefts.*  
 Sinn und Bedeutung, Edinburgh, Scotland. (joint work with Joseph P. De Veaugh-Geiss,
 Edgar Onea and Malte Zimmermann)
 	* Poster: Methodological Considerations on testing argument asymmetry in German cleft sen-
