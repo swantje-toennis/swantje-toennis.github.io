@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Short curriculum vitae"
+title: "Short CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,7 +11,7 @@ redirect_from:
 
 ### Academic Positions
 
-* Since 2021: Postdoc position, Department of English Linguistics, Stuttgart University, Germany
+* Since 2021: Postdoc position, Department of English Linguistics, Stuttgart University
 * 2017-2021: Research Assistent, German Department, Graz University
 * 2015-2017: Research Assistent, DFG-funded XPrag project "Exhaustivity in Cleft Sentences", Göttingen University
 
