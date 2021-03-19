@@ -9,9 +9,6 @@ redirect_from:
 
 {% include base_path %}  
 
-Research
-===
-
 * Cleft Sentences in German (and other languages)
 * Discourse Expectations
 * Experimental Pragmatics
