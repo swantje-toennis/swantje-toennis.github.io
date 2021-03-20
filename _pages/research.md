@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}  
 
-My research is located at the semantics-pragmatics interface including both theoretical modelling as well as empirical methods. I wrote my dissertation on German cleft sentences in discourse. Currently, I am working on discourse expectations in relation to different linguistic phenomena.
+My research is located at the *semantics-pragmatics interface* including both theoretical modelling as well as empirical methods. I wrote my dissertation on German *cleft sentences in discourse*. Currently, I am working on *discourse expectations* in relation to different linguistic phenomena.
 ### Cleft Sentences
 In my dissertation, I investigated cleft sentences, mainly in German, from different perspectives, such as their function as expressing contrast, exhaustivity, marking focus, and especially how clefts contribute to the discourse structure. I propose that clefts are used to address a rather unexpected question in the context. I analyzed corpus examples of clefts in a wider context instead of constructed examples with no or little context. 
 ### Discourse Expectations
