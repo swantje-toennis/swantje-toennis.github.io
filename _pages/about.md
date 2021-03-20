@@ -20,5 +20,7 @@ My [research interests](https://swantje-toennis.github.io/research/) are located
 
 I am teaching courses in semantics, pragmatics, and the interface (see my courses [here](https://swantje-toennis.github.io/teaching/)).
 
+Outside of academia, I enjoy bouldering, rock climbing, and singing in the choir.
+
 
 
