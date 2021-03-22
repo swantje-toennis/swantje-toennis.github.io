@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ### Semantics
-* Semantic Theory, *Stuttgart University*, upcoming 
+* Semantic Theory, *Stuttgart University*, BA-level upcoming 
 
 
 ### Pragmatics
