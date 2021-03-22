@@ -18,7 +18,7 @@ My [research interests](https://swantje-toennis.github.io/research/) are located
 * Formal (QUD-based) discourse modelling
 * Probabilistic Pragmatics
 
-I am teaching courses in semantics, pragmatics, and the interface at BA and MA level (see my courses [here](https://swantje-toennis.github.io/teaching/)).
+I am teaching courses in semantics, pragmatics, and the interface at BA- and MA-level (see my courses [here](https://swantje-toennis.github.io/teaching/)).
 
 Outside of academia, I enjoy bouldering, rock climbing, and singing in the choir.
 
