@@ -12,11 +12,11 @@ I am a postdoctoral researcher at the Department of English Linguistics ([IfLA](
 
 My [research interests](https://swantje-toennis.github.io/research/) are located at the semantics-pragmatics interface, in particular the following topics:
 * Cleft sentences in German (and other languages)
-* Expectations in Discourse
-* Information Structure
-* Experimental Pragmatics
+* Expectations in discourse
+* Information structure
+* Experimental pragmatics
 * Formal (QUD-based) discourse modelling
-* Probabilistic Pragmatics
+* Probabilistic pragmatics
 
 I teach courses in semantics, pragmatics, and the interface at BA and MA level (see my courses [here](https://swantje-toennis.github.io/teaching/)).
 
