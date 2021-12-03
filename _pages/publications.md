@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 ### Dissertation
-**Tönnis**, S. (2021). German *es*-Clefts in Discourse. A Question-Based Analysis Involving Expectedness. PhD thesis. Graz University. ([pdf](http://swantje-toennis.github.io/files/Tönnis (2021) - German es-Clefts in Discourse - A Question-Based Analysis Involving Expectedness.pdf)
+**Tönnis**, S. (2021). German *es*-Clefts in Discourse. A Question-Based Analysis Involving Expectedness. PhD thesis. Graz University. ([pdf](http://swantje-toennis.github.io/files/toennis_2021_dissertation.pdf))
 
 ### Peer reviewed journal articles
 * De Veaugh-Geiss, J. P., **Tönnis**, S., Onea, E., and Zimmermann, M. (2018). That's not quite it: An experimental investigation of (non-)exhaustivity in clefts. *Semantics and Pragmatics*, 11. ([pdf](https://www.semprag.org/article/view/sp.11.3/pdf))
