@@ -10,11 +10,13 @@ redirect_from:
 {% include base_path %}
 
 ### Semantics
-* Semantic Theory, BA level, *Stuttgart University*, upcoming 
+* Semantic Theory, BA level, *Stuttgart University*, 2021-present 
 
+### Syntax
+* Syntactic Theory, BA level, *Stuttgart University*, 2021-present 
 
 ### Pragmatics
-* Advanced Linguistics: Expectations in Discourse, MA level, *Stuttgart University*, upcoming  
+* Advanced Linguistics: Expectations in Discourse, MA level, *Stuttgart University*, 2021-present  
 * Semantics-Pragmatics-Interface: Information Structure, BA level, *Graz University*, 2020
 * Introduction to Pragmatics, BA level, *Graz University*, 2018-2020
 
