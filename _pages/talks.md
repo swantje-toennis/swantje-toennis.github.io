@@ -11,8 +11,12 @@ redirect_from:
 {% include base_path %}
 
 ### Peer-reviewed
+* 2022  
+	* Poster: *German clefts address unexpected questions.* SALT 32, Mexico City, Mexico (upcoming)
+	* Poster: *Addressing unexpected questions in discourse.* ELM 2, Philadelphia, USA (upcoming)
+	* Talk: *Cleft Sentences Reduce Information Density in Discourse.* DGfS 2022, Tübingen, Germany
 * 2019
-	* Talk: *It is not the obvious question that a cleft addresses.* TbiLLC 2019, Batumi, Georgia.
+	* Talk: *It is not the obvious question that a cleft addresses.* TbiLLC 2019, Batumi, Georgia
 * 2018
 	* Poster: *German es-clefts raising prominence - An empirical study comparing written and spoken data*  
 	2nd International Conference Prominence in Language, Köln
@@ -33,7 +37,9 @@ Grammar and Corpora 2016, Mannheim, Germany. (joint work with Lea M. Fricke and 
 	ESSLLI, Bozen, Italy (joint work with Lea M. Fricke and Alexander Schreiber)
 
 ### Not peer-reviewed
-* 2019
+* 2022 
+	* Talk: *tba.* Linguistic Colloquium, University of Potsdam, Germany
+* 2019 
 	* Talk: *German es-clefts in discourse - How clefts interact with the discourse question*  
 	Linguistic Colloquium, Vienna University, Austria
 	* Talk: *On the interaction of Clefts and the Question under Discussion*  
