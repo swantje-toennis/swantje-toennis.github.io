@@ -38,7 +38,7 @@ Grammar and Corpora 2016, Mannheim, Germany. (joint work with Lea M. Fricke and 
 
 ### Not peer-reviewed
 * 2022 
-	* Talk: *tba.* Linguistic Colloquium, University of Potsdam, Germany
+	* Talk: *tba.* Linguistic Colloquium, University of Potsdam, Germany (upcoming)
 * 2019 
 	* Talk: *German es-clefts in discourse - How clefts interact with the discourse question*  
 	Linguistic Colloquium, Vienna University, Austria
