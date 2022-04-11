@@ -16,7 +16,7 @@ redirect_from:
 
 
 ### Proceedings papers
-* **Tönnis**, S. (2022). It Is Not the Obvious Question That a Cleft Addresses. In Özgün, A., Simpson, A., and Zinova, Y. (eds.), *Proceedings of TbiLLC 2019*. ([pdf](http://swantje-toennis.github.io/files/Tönnis2022_Chapter_ItIsNotTheObviousQuestionThatA))
+* **Tönnis**, S. (2022). It Is Not the Obvious Question That a Cleft Addresses. In Özgün, A., Simpson, A., and Zinova, Y. (eds.), *Proceedings of TbiLLC 2019*. ([pdf](https://link.springer.com/chapter/10.1007/978-3-030-98479-3_7)) 
 * Zimmermann, M., De Veaugh-Geiss, J. P., **Tönnis**, S., and Onea, E. (2020). (Non-)exhaustivity in focus partitioning across languages. In Hegedus, V. and Vogel, I. (eds.), Approaches to Hungarian, vol. 16: *Papers from the 2017 Budapest Conference*, pp. 208-230. John Benjamins: Amsterdam, Philadelphia.
 * **Tönnis**, S., Fricke, L. M., and Schreiber, A. (2018). Methodological Considerations on Testing Argument Asymmetry in German Cleft Sentences. In Fuß, E., Konopka, M., Trawinski, B., and Waßner, U. H. (eds.), *Grammar and Corpora 2016*, pp. 231-240. Heidelberg University Publishing. ([pdf](https://library.oapen.org/viewer/web/viewer.html?file=/bitstream/handle/20.500.12657/29526/361-68-81164-3-10-20180607.pdf?sequence=1&isAllowed=y))
 * De Veaugh-Geiss, J. P., **Tönnis**, S., Onea, E., and Zimmermann, M. (2018). An experimental investigation of (non-)exhaustivity in es-clefts. In *Proceedings of Sinn und Bedeutung*, vol. 21, pp. 347-366. ([pdf](https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/142/85))
