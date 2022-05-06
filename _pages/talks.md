@@ -12,7 +12,7 @@ redirect_from:
 
 ### Peer-reviewed
 * 2022  
-	* ### Poster: *German clefts address unexpected questions.* SALT 32, Mexico City, Mexico (upcoming)
+	* ## Poster: *German clefts address unexpected questions.* SALT 32, Mexico City, Mexico (upcoming)
 	* Poster: *Addressing unexpected questions in discourse.* ELM 2, Philadelphia, USA (upcoming)
 	* Talk: *Cleft Sentences Reduce Information Density in Discourse.* DGfS 2022, Tübingen, Germany
 * 2019
