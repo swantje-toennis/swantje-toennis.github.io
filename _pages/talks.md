@@ -12,7 +12,7 @@ redirect_from:
 
 ### Peer-reviewed
 * 2022  
-	* Poster: *German clefts address unexpected questions.* SALT 32, Mexico City, Mexico (upcoming)
+	* ### Poster: *German clefts address unexpected questions.* SALT 32, Mexico City, Mexico (upcoming)
 	* Poster: *Addressing unexpected questions in discourse.* ELM 2, Philadelphia, USA (upcoming)
 	* Talk: *Cleft Sentences Reduce Information Density in Discourse.* DGfS 2022, Tübingen, Germany
 * 2019
@@ -39,7 +39,7 @@ Grammar and Corpora 2016, Mannheim, Germany. (joint work with Lea M. Fricke and 
 ### Not peer-reviewed
 * 2022 
 	* Talk: *Empirical investigations on the discourse function of German clefts.*  
-	Linguistic Colloquium, University of Potsdam, Germany (upcoming)
+	Linguistic Colloquium, University of Potsdam, Germany
 * 2019 
 	* Talk: *German es-clefts in discourse - How clefts interact with the discourse question*  
 	Linguistic Colloquium, Vienna University, Austria
