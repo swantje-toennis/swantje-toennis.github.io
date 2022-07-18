@@ -11,7 +11,6 @@ redirect_from:
 {% include base_path %}
 
 ### Peer-reviewed
-* upcoming
 
 * 2022  
 	*  Poster *German clefts address unexpected questions.* SALT 32, Mexico City, Mexico (joint work with Judith Tonhauser)
