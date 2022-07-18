@@ -12,9 +12,10 @@ redirect_from:
 
 ### Peer-reviewed
 * upcoming
-	* <b>May 18, 2022: Poster *German clefts address unexpected questions.* SALT 32, Mexico City, Mexico (joint work with Judith Tonhauser) </b>
-	* <b>June 9, 2022: Poster *Addressing unexpected questions in discourse.* ELM 2, Philadelphia, USA (joint work with Judith Tonhauser)</b>
+
 * 2022  
+	*  Poster *German clefts address unexpected questions.* SALT 32, Mexico City, Mexico (joint work with Judith Tonhauser)
+	*  Poster *Addressing unexpected questions in discourse.* ELM 2, Philadelphia, USA (joint work with Judith Tonhauser)
 	* Talk: *Cleft Sentences Reduce Information Density in Discourse.* DGfS 2022, Tübingen, Germany
 * 2019
 	* Talk: *It is not the obvious question that a cleft addresses.* TbiLLC 2019, Batumi, Georgia
