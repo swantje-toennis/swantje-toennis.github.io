@@ -16,6 +16,7 @@ redirect_from:
 
 
 ### Proceedings papers
+* **Tönnis**, S. and Tonhauser, J. (2022). German clefts address unexpected questions. In John R. Starr, Juhyae Kim, and Burak Öney (eds.), *Proceedings of SALT 32*, pp. 661–684. ([pdf](https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/32.034))
 * **Tönnis**, S. (2022). It Is Not the Obvious Question That a Cleft Addresses. In Özgün, A., Simpson, A., and Zinova, Y. (eds.), *Proceedings of TbiLLC 2019*. ([pdf](https://link.springer.com/chapter/10.1007/978-3-030-98479-3_7)) 
 * Zimmermann, M., De Veaugh-Geiss, J. P., **Tönnis**, S., and Onea, E. (2020). (Non-)exhaustivity in focus partitioning across languages. In Hegedus, V. and Vogel, I. (eds.), Approaches to Hungarian, vol. 16: *Papers from the 2017 Budapest Conference*, pp. 208-230. John Benjamins: Amsterdam, Philadelphia.
 * **Tönnis**, S., Fricke, L. M., and Schreiber, A. (2018). Methodological Considerations on Testing Argument Asymmetry in German Cleft Sentences. In Fuß, E., Konopka, M., Trawinski, B., and Waßner, U. H. (eds.), *Grammar and Corpora 2016*, pp. 231-240. Heidelberg University Publishing. ([pdf](https://library.oapen.org/viewer/web/viewer.html?file=/bitstream/handle/20.500.12657/29526/361-68-81164-3-10-20180607.pdf?sequence=1&isAllowed=y))
