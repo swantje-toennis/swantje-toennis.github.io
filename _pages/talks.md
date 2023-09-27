@@ -12,9 +12,12 @@ redirect_from:
 
 ### Peer-reviewed
 
+* 2023
+        * Poster: *Question expectedness as a measure of at-issueness?* 10th XPrag meeting 2023, Paris, France (joint work with Judith Tonhauser)
+
 * 2022  
-	*  Poster *German clefts address unexpected questions.* SALT 32, Mexico City, Mexico (joint work with Judith Tonhauser)
-	*  Poster *Addressing unexpected questions in discourse.* ELM 2, Philadelphia, USA (joint work with Judith Tonhauser)
+	*  Poster: *German clefts address unexpected questions.* SALT 32, Mexico City, Mexico (joint work with Judith Tonhauser)
+	*  Poster: *Addressing unexpected questions in discourse.* ELM 2, Philadelphia, USA (joint work with Judith Tonhauser)
 	* Talk: *Cleft Sentences Reduce Information Density in Discourse.* DGfS 2022, Tübingen, Germany
 * 2019
 	* Talk: *It is not the obvious question that a cleft addresses.* TbiLLC 2019, Batumi, Georgia
