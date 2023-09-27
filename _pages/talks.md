@@ -13,7 +13,7 @@ redirect_from:
 ### Peer-reviewed
 
 * 2023  
-	*  Poster: *Question expectedness as a measure of at-issueness?* 10th XPrag meeting 2023, Paris, France (joint work with Judith Tonhauser) ([pdf](http://swantje-toennis.github.io/files/xprag_poster.pdf))
+	*  Poster: *Question expectedness as a measure of at-issueness?*, 10th XPrag meeting 2023, Paris, France (joint work with Judith Tonhauser) ([pdf](http://swantje-toennis.github.io/files/xprag_poster.pdf))
 
 * 2022  
 	*  Poster: *German clefts address unexpected questions.* SALT 32, Mexico City, Mexico (joint work with Judith Tonhauser) ([pdf](http://swantje-toennis.github.io/files/poster_tönnis&tonhauser.pdf))
