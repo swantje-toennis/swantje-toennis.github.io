@@ -16,7 +16,7 @@ redirect_from:
 
 ### Book chapters
 * **Tönnis**, S. (to appear). Cleft Sentences Reduce Information Density in Discourse. In Lisa Schäfer, Robin Lemke, et al. (eds.), *Topics at the Grammar-Discourse Interface*.
-* Zimmermann, M., De Veaugh-Geiss, J. P., **Tönnis**, S., and Onea, E. (2020). (Non-)exhaustivity in focus partitioning across languages. In Hegedus, V. and Vogel, I. (eds.), Approaches to Hungarian, vol. 16: *Papers from the 2017 Budapest Conference*, pp. 208-230. John Benjamins: Amsterdam, Philadelphia. 10.1075/atoh.16.10zim
+* Zimmermann, M., De Veaugh-Geiss, J. P., **Tönnis**, S., and Onea, E. (2020). (Non-)exhaustivity in focus partitioning across languages. In Hegedus, V. and Vogel, I. (eds.), Approaches to Hungarian, vol. 16: *Papers from the 2017 Budapest Conference*, pp. 208-230. John Benjamins: Amsterdam, Philadelphia. doi: 10.1075/atoh.16.10zim
 
 ### Proceedings papers
 * **Tönnis**, S. and Tonhauser, J. (2022). German clefts address unexpected questions. In Starr, J.R., Kim, J., and Öney, B. (eds.), *Proceedings of SALT 32*, pp. 661–684. doi: 10.3765/salt.v1i0.5359. ([pdf](https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/32.034))
