@@ -13,6 +13,5 @@ redirect_from:
 
 
 swantje.toennis[at]gmx.de  
-[My webpage at the Department of English Linguistics
-University of Stuttgart](https://www.ling.uni-stuttgart.de/institut/team/Toennis/)  
+[My webpage at the Department of English Linguistics, University of Stuttgart](https://www.ling.uni-stuttgart.de/institut/team/Toennis/)  
 
