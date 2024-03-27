@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 ### Upcoming course at ESSLLI 2024
-* July 29 -- August 2, 2024: ESSLLI course *Theoretical and empirical approaches to cleft constructions*, Leuven, Belgium<br>(co-taught with Jun Chen)
+* July 29 -- August 2, 2024: ESSLLI course *Theoretical and empirical approaches to cleft constructions*, Leuven, Belgium<br>(co-taught with [Jun Chen](https://www.ling.uni-stuttgart.de/institut/team/Chen/))
 
 ### Semantics
 * Advanced Semantics: Tense and Aspect, MA level, *Stuttgart University*, 2022-2024
