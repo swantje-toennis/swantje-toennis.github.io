@@ -12,7 +12,7 @@ redirect_from:
 
 
 
-Personal email address: <a href="mailto:swantje.toennis[at]gmx.de">swantje.toennis[at]gmx.de</a>
+Email: <a href="mailto:swantje.toennis[at]gmx.de">swantje.toennis[at]gmx.de</a>
 
 [My webpage at the Department of English Linguistics, University of Stuttgart](https://www.ling.uni-stuttgart.de/institut/team/Toennis/)  
 
