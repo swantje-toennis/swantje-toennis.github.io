@@ -15,5 +15,5 @@ redirect_from:
 **Email**: <a href="mailto:swantje.toennis[at]gmx.de">swantje.toennis[at]gmx.de</a><br>
 (please replace [at])
 
-[My webpage at the Department of English Linguistics, University of Stuttgart](https://www.ling.uni-stuttgart.de/institut/team/Toennis/)  
+<a href="https://www.ling.uni-stuttgart.de/institut/team/Toennis/" target="_blank">My webpage at the Department of English Linguistics, University of Stuttgart</a> 
 
