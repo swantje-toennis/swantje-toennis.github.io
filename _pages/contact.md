@@ -12,7 +12,7 @@ redirect_from:
 
 
 
-swantje.toennis/[at/]gmx.de  
+swantje.toennis[at]gmx.de  
 [My department webpage](https://www.ling.uni-stuttgart.de/institut/team/Toennis/)  
 
 [University of Stuttgart](https://www.uni-stuttgart.de/en/)  
