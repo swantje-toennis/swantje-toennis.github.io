@@ -13,11 +13,6 @@ redirect_from:
 
 
 swantje.toennis[at]gmx.de  
-[My department webpage](https://www.ling.uni-stuttgart.de/institut/team/Toennis/)  
-
-[University of Stuttgart](https://www.uni-stuttgart.de/en/)  
-[Department of English Linguistics](https://www.ling.uni-stuttgart.de/en/institute/ifla/)   
-Keplerstr. 17  
-70174 Stuttgart  
-Germany  
+[My webpage at the Department of English Linguistics
+University of Stuttgart](https://www.ling.uni-stuttgart.de/institut/team/Toennis/)  
 
