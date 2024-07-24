@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "ESSLLI course"
-permalink: /ESSLLI course/
+permalink: /esslli/
 author_profile: true
 redirect_from:
   - /resume
