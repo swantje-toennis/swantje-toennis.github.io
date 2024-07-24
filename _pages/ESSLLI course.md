@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}  
 
-**Theoretical and empirical approaches to cleft constructions**
+**Theoretical and empirical approaches to cleft constructions**<br>
 by Jun Chen and Swantje Tönnis
 
 
