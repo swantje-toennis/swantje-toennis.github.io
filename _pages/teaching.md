@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 ### Upcoming course at ESSLLI 2024
-* July 29 -- August 2, 2024: [ESSLLI course *Theoretical and empirical approaches to cleft constructions*](https://swantje-toennis.github.io/research/), Leuven, Belgium<br>(co-taught with <a href="https://www.ling.uni-stuttgart.de/institut/team/Chen/" target="_blank"> Jun Chen </a>)
+* July 29 -- August 2, 2024: [ESSLLI course *Theoretical and empirical approaches to cleft constructions*]([https://swantje-toennis.github.io/research/](https://swantje-toennis.github.io/esslli/)), Leuven, Belgium<br>(co-taught with <a href="https://www.ling.uni-stuttgart.de/institut/team/Chen/" target="_blank"> Jun Chen </a>)
 
 ### Semantics
 * Advanced Semantics: Tense and Aspect, MA level, *Stuttgart University*, 2022-2024
