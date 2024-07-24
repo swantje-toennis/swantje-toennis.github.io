@@ -21,7 +21,7 @@ July 29 - August 2nd 2024, ESSLLI, Leuven (Belgium)
 * Day 4
 * Day 5
 
-### Abstract
+### Content
 This course aims to cross-linguistically investigate cleft constructions from theory-driven and empirical perspectives. An English cleft construction is a sentence of the form *It is ... who ...*, as exemplified in (1).
 
 (1) It was Sally who danced.
