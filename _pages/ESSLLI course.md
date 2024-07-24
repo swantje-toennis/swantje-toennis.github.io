@@ -13,7 +13,8 @@ redirect_from:
 by <a href="https://www.ling.uni-stuttgart.de/institut/team/Chen/" target="_blank"> Jun Chen </a> and Swantje Tönnis <br>
 July 29 - August 2nd 2024, ESSLLI, Leuven (Belgium)
 
-**Slides will be uploaded after classes**
+### Slides
+(to be uploaded after each session)
 * Day 1
 * Day 2
 * Day 3
