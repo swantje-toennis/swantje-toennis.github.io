@@ -12,7 +12,7 @@ redirect_from:
 ## Theoretical and empirical approaches to cleft constructions<br>
 by <a href="https://www.ling.uni-stuttgart.de/institut/team/Chen/" target="_blank"> Jun Chen </a> and Swantje Tönnis <br>
 July 29 - August 2, 2024 <br>
-ESSLLI summer school, Leuven (Belgium)
+ESSLLI, Leuven (Belgium)
 
 **Slides will be uploaded after classes**
 * Day 1
