@@ -16,7 +16,7 @@ My [research interests](https://swantje-toennis.github.io/research/) are located
 * Information structure
 * Experimental pragmatics
 * Formal (QUD-based) discourse modelling
-* Probabilistic pragmatics
+* Probabilistic pragmatics / Information theory
 
 I teach courses in semantics, pragmatics, syntax, and the interfaces at BA and MA level (see my courses [here](https://swantje-toennis.github.io/teaching/)).
 
