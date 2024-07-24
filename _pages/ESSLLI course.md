@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}  
 
-**ESSLLI course** 
+**Theoretical and empirical approaches to cleft constructions**
+by Jun Chen and Swantje Tönnis
 
 
