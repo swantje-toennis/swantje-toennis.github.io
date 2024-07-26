@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}  
 
 ## Theoretical and empirical approaches to cleft constructions<br>
-by <a href="http://juniper-ling.de/" target="_blank"> Jun Chen </a> and Swantje Tönnis <br>
+by <a href="https://juniper-ling.de/" target="_blank"> Jun Chen </a> and Swantje Tönnis <br>
 July 29 - August 2nd 2024, ESSLLI, Leuven (Belgium)
 
 ### Slides
