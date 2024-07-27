@@ -19,9 +19,12 @@ July 29 - August 2nd 2024, ESSLLI, Leuven (Belgium)
   Readings: <a href="https://benjamins.com/catalog/la.208.01har" target="_blank">Hartmann & Veenstra (2013)</a>,  <a href="https://academic.oup.com/edited-volume/38644/chapter-abstract/335406577?redirectedFrom=fulltext&login=false" target="_blank">Onea (2019)</a>
 * Day 2<br>
   Readings: <a href="https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/25.373" target="_blank"> De Veaugh-Geiss et al. (2015) </a>
-* Day 3
-* Day 4
-* Day 5
+* Day 3<br>
+  Readings:  <a href="http://www.cssp.cnrs.fr/eiss10/eiss10_destruel-and-velleman.pdf" target="_blank"> Destruel & Velleman (2014) </a>, <a href="" target="_blank"> Tönnis (2021), chapter 8 </a>
+* Day 4<br>
+  <a href="" target="_blank">  </a>
+* Day 5<br>
+  <a href="" target="_blank">  </a>
 
 ### Content
 This course aims to cross-linguistically investigate cleft constructions from theory-driven and empirical perspectives. An English cleft construction is a sentence of the form *It is ... who ...*, as exemplified in (1).
