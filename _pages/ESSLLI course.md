@@ -15,9 +15,9 @@ July 29 - August 2nd 2024, ESSLLI, Leuven (Belgium)
 
 ### Slides
 (to be uploaded after each session)
-* Day 1
-  Readings: Hartmann & Veenstra
-* Day 2
+* Day 1<br>
+  Readings: <a href="https://benjamins.com/catalog/la.208.01har" target="_blank">Hartmann & Veenstra (2013)</a>,  <a href="https://academic.oup.com/edited-volume/38644/chapter-abstract/335406577?redirectedFrom=fulltext&login=false" target="_blank">Onea (2019)</a>
+* Day 2<br>
   Readings: <a href="https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/25.373" target="_blank"> De Veaugh-Geiss et al. (2015) </a>
 * Day 3
 * Day 4
