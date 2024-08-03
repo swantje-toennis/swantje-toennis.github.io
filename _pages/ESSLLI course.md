@@ -24,7 +24,7 @@ July 29 - August 2nd 2024, ESSLLI, Leuven (Belgium)
   Readings:  <a href="http://www.cssp.cnrs.fr/eiss10/eiss10_destruel-and-velleman.pdf" target="_blank"> Destruel & Velleman (2014) </a>, <a href="http://swantje-toennis.github.io/files/toennis_2021_dissertation.pdf" target="_blank"> Tönnis (2021:ch. 8) </a>
 * Day 4: [slides](http://swantje-toennis.github.io/files/ESSLLI_day4.pdf)<br>
   Readings: <a href="http://swantje-toennis.github.io/files/toennis_2021_dissertation.pdf" target="_blank"> Tönnis (2021:ch. 10) </a>, <a href="https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/32.034" target="_blank"> Tönnis & Tonhauser (2022) </a>
-* Day 5<br>
+* Day 5: [slides](http://swantje-toennis.github.io/files/ESSLLI_day5.pdf)<br>
 
 
 ### Content
