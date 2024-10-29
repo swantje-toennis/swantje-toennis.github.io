@@ -15,7 +15,7 @@ redirect_from:
 * De Veaugh-Geiss, J. P., **Tönnis**, S., Onea, E., and Zimmermann, M. (2018). That's not quite it: An experimental investigation of (non-)exhaustivity in clefts. *Semantics and Pragmatics*, 11. doi: 10.3765/sp.11.3. ([pdf](https://www.semprag.org/article/view/sp.11.3/pdf))
 
 ### Book chapters
-* **Tönnis**, S. (to appear). Cleft Sentences Reduce Information Density in Discourse. In Lisa Schäfer, Robin Lemke, et al. (eds.), *Topics at the Grammar-Discourse Interface*.
+* **Tönnis**, S. (2024). Cleft Sentences Reduce Information Density in Discourse. In Lemke, R., Schäfer, L. and Reich, I. (eds.), *Information structure and information theory*, pp. 147–175, doi: 10.5281/zenodo.12784266. ([pdf](https://zenodo.org/records/13383793/files/465-LemkeEtAl-2024-6.pdf?download=1))
 * Zimmermann, M., De Veaugh-Geiss, J. P., **Tönnis**, S., and Onea, E. (2020). (Non-)exhaustivity in focus partitioning across languages. In Hegedus, V. and Vogel, I. (eds.), Approaches to Hungarian, vol. 16: *Papers from the 2017 Budapest Conference*, pp. 208-230. John Benjamins: Amsterdam, Philadelphia. doi: 10.1075/atoh.16.10zim
 
 ### Proceedings papers
