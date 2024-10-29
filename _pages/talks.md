@@ -12,7 +12,7 @@ redirect_from:
 
 ### Peer-reviewed
 * 2024
-	* Poster : *Accommodating the Question Under Discussion*, Sinn und Bedeutung 29, Noto (Sicily), Italy (joint work with and presented by Judith Tonhauser)
+	* Poster : *Inferring the Question Under Discussion*, Sinn und Bedeutung 29, Noto (Sicily), Italy (joint work with and presented by Judith Tonhauser)
 * 2023  
 	*  Poster: *Question expectedness as a measure of at-issueness?*, 10th XPrag meeting 2023, Paris, France (joint work with Judith Tonhauser) ([pdf](http://swantje-toennis.github.io/files/xprag_poster.pdf))
 
